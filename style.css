@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+  /* background-color: #f4efe9; */
+  background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
+  font-family: "Roboto Mono", monospace;
+  padding: 0 16px;
+}
+
+img {
+  border-radius: 90%;
+}
